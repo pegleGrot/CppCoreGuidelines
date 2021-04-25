@@ -22,7 +22,7 @@ The list of contributors is [here](#SS-ack).
 Problems:
 
 * The sets of rules have not been completely checked for completeness, consistency, or enforceability.
-* Triple question marks (???) mark known missing information
+* Triple question marks (like this: ???) mark known missing information
 * Update reference sections; many pre-C++11 sources are too old.
 * For a more-or-less up-to-date to-do list see: [To-do: Unclassified proto-rules](#S-unclassified)
 
